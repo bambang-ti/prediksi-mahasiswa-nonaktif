@@ -1,0 +1,15 @@
+# Data penelitian tidak boleh masuk repositori
+*.csv
+*.xlsx
+*.xls
+*.parquet
+data/
+
+# Keluaran notebook
+*.png
+hasil_penelitian_crispdm.xlsx
+
+# Lain-lain
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
